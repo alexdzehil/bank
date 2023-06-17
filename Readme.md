@@ -9,3 +9,8 @@
 Остановить и удалить контейнер
 - make stop
 - docker stop test_work
+
+localhost:8000/producers/?contract_id=32812
+
+login: root
+pass:  root
